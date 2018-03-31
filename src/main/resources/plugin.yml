@@ -1,0 +1,4 @@
+name: TestPlugin
+version: 1.0
+author: Mats
+main: de.mats.testplugin.TestPlugin
